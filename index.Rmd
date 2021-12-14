@@ -14,4 +14,4 @@ Now I'm going to delete this and commit and push.
 And I'll change this and commit it.
 
 
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+And, lastly, I'll do this last part. 
