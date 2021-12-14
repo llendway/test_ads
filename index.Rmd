@@ -10,3 +10,5 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 Then I make a change here. 
+
+Now I'm going to add something I don't care about and commit. 
